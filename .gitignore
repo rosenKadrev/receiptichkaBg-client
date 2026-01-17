@@ -6,6 +6,12 @@
 /out-tsc
 /bazel-out
 
+# SSL Certificates
+ssl/
+*.pem
+*.key
+*.crt
+
 # Node
 /node_modules
 npm-debug.log
